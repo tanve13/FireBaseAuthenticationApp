@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123686427139",
+    "project_id": "fir-authenticationapp-fcd6e",
+    "storage_bucket": "fir-authenticationapp-fcd6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123686427139:android:28456c3144391fd6650c36",
+        "android_client_info": {
+          "package_name": "com.tanveer.firebaseauthenticationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-ZDaapmjUpKoXsAwsFMFnjOcxHtoV_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
